@@ -1,16 +1,16 @@
 {
-  "name": "possumbot",
+  "name": "HackerBoy",
   "version": "0.0.1",
   "description": "a bot that will allow you to destroy discord servers",
-  "main": "bot.js",
+  "main": "here.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Barsik008/PossumBot.git"
+    "type": "GitHub Repo",
+    "url": "https://github.com/GrimDesignsFiveM/HackerBoy/edit/master/package.json"
   },
-  "author": "barsik",
+  "author": "Tyler. H",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2"
